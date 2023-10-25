@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "agentsflow:dev": "nx run-many -t install -t serve -p frontend api",
-    "agentsflow": "nx run-many -t install -t build -t serve -p frontend api --configuration production"
+    "agentsflow": "nx run-many -t install -t build -t serve -p frontend api --configuration production",
+    "build": "next build"
   },
   "private": true,
   "dependencies": {
@@ -29,6 +30,7 @@
     "lucide-react": "^0.284.0",
     "next": "13.4.1",
     "next-themes": "^0.2.1",
+    "npm": "^10.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.47.0",
