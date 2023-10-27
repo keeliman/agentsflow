@@ -1,3 +1,9 @@
+To use When you tux outside<br>
+___________________________________
+EU.MEC.EU wafu-wafu ( @caisse de bruck )<br>
+mekua-meke-suku SAV@dir.eu
+____________________________________
+
 # 🤖 Agentsflow
 
 Easily create, connect & run autonomous [autogen](https://github.com/microsoft/autogen) AI agents from a streamlined web interface.
